@@ -1,10 +1,10 @@
-🎯 Student Performance Prediction – MLOps Practice Project
+# Student Performance Prediction – MLOps Practice Project
 📌 Project Overview
 
 This project is a small, practice-focused Machine Learning project created to understand and implement core MLOps concepts such as structured code, data ingestion, data transformation, model training pipelines, logging, and exception handling.
 The goal of this project is learning and experimentation, not deployment or production usage.
 
-🧠 Objective
+# Objective
 
 To predict student performance using supervised machine learning while practicing:
 
