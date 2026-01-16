@@ -77,12 +77,3 @@ Handling errors and logs in ML workflows
 
 Understanding how MLOps fits into real-world ML systems
 
-🚀 Future Improvements
-
-Add model deployment (Flask/FastAPI)
-
-Integrate experiment tracking
-
-Implement CI/CD pipeline
-
-Containerize using Docker
