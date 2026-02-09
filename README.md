@@ -7,7 +7,6 @@ The goal of this project is learning and experimentation, not deployment or prod
 # Objective
 
 To predict student performance using supervised machine learning while practicing:
-
 Modular ML project structure
 
 Pipeline-based workflow
