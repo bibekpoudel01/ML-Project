@@ -5,7 +5,6 @@ This project is a small, practice-focused Machine Learning project created to un
 The goal of this project is learning and experimentation, not deployment or production usage.
 
 # Objective
-
 To predict student performance using supervised machine learning while practicing:
 Modular ML project structure
 
